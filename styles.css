@@ -120,7 +120,7 @@ h6{
   display: grid;/*Para que se comporte como grilla*/
 
   grid-template-rows: 20% 80%;/*Una para el titulo y otra para las noticias*/
-  padding-top: 100px;
+  padding-top: 50px;
   grid-area: main;
 
 }
@@ -161,7 +161,6 @@ h6{
 .Not2,
 .Not3 {
   box-sizing: border-box;
-  position: relative;
   width: 80%;
   min-height: 300px;
   margin:20px;
